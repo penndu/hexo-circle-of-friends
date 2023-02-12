@@ -60,6 +60,10 @@ SETTINGS_FRIENDS_LINKS:
     - https://c.undf.top/
     - https://c.undf.top/icon/android-chrome-144x144.png
     - atom.xml
+  - - "\u53F6\u5F00\u535A\u5BA2"
+    - https://qq.md/
+    - https://xn--qpru0x.cn/tx.png
+    - feed/
   - - "Yang\u2019s Blog"
     - https://16634.cn/
     - https://16634.cn/img/ico.png
@@ -79,8 +83,4 @@ SETTINGS_FRIENDS_LINKS:
   - - "P3ter\u2019s Blog"
     - https://p3ter.me/
     - https://bu.dusays.com/2022/06/21/62b1583017bae.jpg
-    - feed/
-  - - "\u53F6\u5F00\u535A\u5BA2"
-    - https://qq.md/
-    - https://xn--qpru0x.cn/tx.png
     - feed/
