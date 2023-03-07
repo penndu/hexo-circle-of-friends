@@ -26,38 +26,10 @@ SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
   list:
-  - - Blogin
-    - https://2dogz.cn/
-    - https://bu.dusays.com/2020/11/13/b54215c2293a9.jpg
-    - rss-feed/
   - - "\u5C0F\u7B80\u535A\u5BA2"
     - https://blog.ideaopen.cn/
     - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
     - index.php/feed/
-  - - Hello Lin
-    - https://www.hellolin.cn/
-    - https://bu.dusays.com/2022/08/02/62e8d85fa20f5.png
-    - feed/
-  - - ZhangZ-Blog
-    - https://www.zhangz.cc/
-    - https://www.zhangz.cc/avatar.png
-    - feed/
-  - - "\u542F\u6DB5\u7684\u535A\u5BA2"
-    - https://blog.1id.top/
-    - https://bu.dusays.com/2022/11/19/6378e4879e576.png
-    - feed/
-  - - "Ryan\u2019s Blog"
-    - https://www.moezz.cn/
-    - https://mcdn.moezz.cn/avatar.jpg
-    - feed/
-  - - "\u6797\u6797\u6742\u8BED"
-    - https://www.xiaozonglin.cn/
-    - https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp&s=80
-    - feed/
-  - - "\u80A5\u866B\u6C7D\u6C34\u644A"
-    - https://blog.bugcola.com/
-    - https://bu.dusays.com/2022/02/23/695eed9a45a72.png
-    - note/index.php/feed/
   - - "\u6C90\u5370\u5C0F\u7AD9"
     - https://c.undf.top/
     - https://c.undf.top/icon/android-chrome-144x144.png
@@ -66,10 +38,6 @@ SETTINGS_FRIENDS_LINKS:
     - https://qq.md/
     - https://xn--qpru0x.cn/tx.png
     - feed/
-  - - "Yang\u2019s Blog"
-    - https://16634.cn/
-    - https://16634.cn/img/ico.png
-    - index.php/feed/
   - - SeerSu
     - https://seersu.me/
     - https://seersu.me/favicon/avatar.jpg
@@ -82,7 +50,3 @@ SETTINGS_FRIENDS_LINKS:
     - https://202271.xyz/
     - https://bu.dusays.com/2022/12/05/638dcd9f515d3.png
     - atom.xml
-  - - "P3ter\u2019s Blog"
-    - https://p3ter.me/
-    - https://bu.dusays.com/2022/06/21/62b1583017bae.jpg
-    - feed/
