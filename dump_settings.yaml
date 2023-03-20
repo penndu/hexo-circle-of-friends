@@ -2,6 +2,7 @@ BLOCK_SITE:
 - https://www.oliverkou.top/
 - https://blog.xiaohack.org/
 - https://blog.4t.pw/
+- https://www.huotravel.com/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
