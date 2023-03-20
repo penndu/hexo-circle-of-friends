@@ -3,6 +3,7 @@ BLOCK_SITE:
 - https://blog.xiaohack.org/
 - https://blog.4t.pw/
 - https://www.huotravel.com/
+- https://www.yjlearn.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
