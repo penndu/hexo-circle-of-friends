@@ -23,8 +23,8 @@ HTTP_PROXY: false
 LINK:
 - link: https://dusays.com/friends/
   theme: volantis
-MAX_POSTS_NUM: 50
-OUTDATE_CLEAN: 3000
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 600
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
