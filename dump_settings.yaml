@@ -1,6 +1,7 @@
 BLOCK_SITE:
 - https://www.gan1ser.top/
 - https://blog.xiaohack.org/
+- https://www.nmwbk.com/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
