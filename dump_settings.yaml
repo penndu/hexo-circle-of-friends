@@ -3,6 +3,7 @@ BLOCK_SITE:
 - https://blog.xiaohack.org/
 - https://www.nmwbk.com/
 - https://www.lanrenn.cn/
+- https://www.yuanzj.top/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
