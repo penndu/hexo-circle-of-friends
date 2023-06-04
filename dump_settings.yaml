@@ -4,6 +4,7 @@ BLOCK_SITE:
 - https://www.nmwbk.com/
 - https://www.lanrenn.cn/
 - https://www.yuanzj.top/
+- https://beatree.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
