@@ -6,6 +6,7 @@ BLOCK_SITE:
 - https://www.yuanzj.top/
 - https://beatree.cn/
 - https://www.zentravel.cc/
+- https://ikerby.me/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
