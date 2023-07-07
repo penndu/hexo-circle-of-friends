@@ -8,6 +8,7 @@ BLOCK_SITE:
 - https://www.zentravel.cc/
 - https://ikerby.me/
 - https://www.pengqi.club/
+- https://hexo.sjava.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
