@@ -9,6 +9,7 @@ BLOCK_SITE:
 - https://ikerby.me/
 - https://www.pengqi.club/
 - https://hexo.sjava.cn/
+- https://www.lyshark.com/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
