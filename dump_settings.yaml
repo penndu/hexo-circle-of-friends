@@ -10,6 +10,7 @@ BLOCK_SITE:
 - https://www.pengqi.club/
 - https://hexo.sjava.cn/
 - https://www.lyshark.com/
+- https://azurelake.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
