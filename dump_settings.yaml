@@ -11,6 +11,7 @@ BLOCK_SITE:
 - https://hexo.sjava.cn/
 - https://www.lyshark.com/
 - https://azurelake.cn/
+- https://roozen.top/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
