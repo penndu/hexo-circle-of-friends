@@ -12,6 +12,7 @@ BLOCK_SITE:
 - https://www.lyshark.com/
 - https://azurelake.cn/
 - https://www.liveout.cn/
+- https://jiyu134.top/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
