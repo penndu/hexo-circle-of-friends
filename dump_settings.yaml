@@ -13,6 +13,7 @@ BLOCK_SITE:
 - https://azurelake.cn/
 - https://www.liveout.cn/
 - https://jiyu134.top/
+- https://www.shangjidong.com/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
