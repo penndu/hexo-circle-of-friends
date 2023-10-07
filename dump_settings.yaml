@@ -23,44 +23,4 @@ OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
-  list:
-  - - "\u5C0F\u7B80\u535A\u5BA2"
-    - https://blog.ideaopen.cn/
-    - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
-    - index.php/feed/
-  - - "\u6C90\u5370\u5C0F\u7AD9"
-    - https://c.undf.top/
-    - https://c.undf.top/icon/android-chrome-144x144.png
-    - atom.xml
-  - - "\u897F\u74DC\u649E\u5730\u7403"
-    - https://www.bio-w.cn/
-    - https://bu.dusays.com/2022/10/17/634d313602a1e.png
-    - atom.xml
-  - - "\u9189\u91CC"
-    - https://202271.xyz/
-    - https://bu.dusays.com/2022/12/05/638dcd9f515d3.png
-    - atom.xml
-  - - "\u957F\u8857\u77ED\u68A6"
-    - https://wangyunzi.com/
-    - https://blog.wangyunzi.com/article/avatar.jpg
-    - atom.xml
-  - - "\u4ECA\u5915\u4F55\u5915\u516E"
-    - https://www.ginc.site/
-    - https://cdn.jsdelivr.net/gh/lyboy-wp/jscdn/img/favicon.ico
-    - feed/
-  - - "\u661F\u65E5\u8BED"
-    - https://weekdaycare.cn/
-    - https://weekdaycare.cn/asset/avatar.svg
-    - atom.xml
-  - - "\u897F\u74DC\u649E\u5730\u7403"
-    - https://www.bio-w.cn/
-    - https://bu.dusays.com/2022/10/17/634d313602a1e.png
-    - atom.xml
-  - - "\u6EE1\u5FC3Hrn"
-    - https://blog.lovelu.top/
-    - https://bu.dusays.com/2022/12/15/639a81c28f3bc.png
-    - atom.xml
-  - - "\u6781\u5BA2\u90CE"
-    - https://ximfem.asia/
-    - https://ximfem.asia/img/jkl1.png
-    - atom.xml
+  list: []
