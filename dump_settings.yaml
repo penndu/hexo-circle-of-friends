@@ -1,20 +1,4 @@
-BLOCK_SITE:
-- https://www.gan1ser.top/
-- https://blog.xiaohack.org/
-- https://www.nmwbk.com/
-- https://www.lanrenn.cn/
-- https://www.yuanzj.top/
-- https://beatree.cn/
-- https://www.zentravel.cc/
-- https://ikerby.me/
-- https://www.pengqi.club/
-- https://hexo.sjava.cn/
-- https://www.lyshark.com/
-- https://azurelake.cn/
-- https://www.liveout.cn/
-- https://jiyu134.top/
-- https://www.shangjidong.com/
-- blog.rabbitwebs.cn
+BLOCK_SITE: []
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
