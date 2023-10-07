@@ -21,7 +21,7 @@ LINK:
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: true
+  enable: false
   json_api: ''
   list:
   - - "\u5C0F\u7B80\u535A\u5BA2"
