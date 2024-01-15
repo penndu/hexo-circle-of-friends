@@ -1,5 +1,4 @@
-BLOCK_SITE:
-- https://beatree.cn/
+BLOCK_SITE: []
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
