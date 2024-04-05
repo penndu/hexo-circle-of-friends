@@ -1,5 +1,5 @@
 BLOCK_SITE:
-- https://www.catchyun.com/
+- https://blog.catchyun.com/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
