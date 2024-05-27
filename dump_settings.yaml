@@ -5,6 +5,7 @@ BLOCK_SITE:
 - https://.*\.catchyun.com/
 - https://sunoapi.net/
 - https://www.lanrenn.cn/
+- https://www.yvii.cn/
 DATABASE: sqlite
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
