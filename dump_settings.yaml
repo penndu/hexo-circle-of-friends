@@ -3,7 +3,6 @@ BLOCK_SITE:
 - https://www.catchyun.com/
 - https://catchyun.com/
 - https://.*\.catchyun.com/
-- https://sunoapi.net/
 - https://www.lanrenn.cn/
 - https://www.yvii.cn/
 DATABASE: sqlite
@@ -25,7 +24,7 @@ HTTP_PROXY: false
 LINK:
 - link: https://dusays.com/friends/
   theme: volantis
-MAX_POSTS_NUM: 3
+MAX_POSTS_NUM: 2
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
