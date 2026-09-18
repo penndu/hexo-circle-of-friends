@@ -322,7 +322,7 @@ pub async fn start_crawl_linkpages(
                     .to_string()
             } else {
                 // 默认图片
-                String::from("https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c")
+                String::from("https://g.dusays.com/avatar/57d8260dfb55501c37dde588e7c3852c")
             };
             let tm = Utc::now().with_timezone(&crawler::BEIJING_OFFSET.unwrap());
             let created_at = tools::strptime_to_string_ymdhms(tm);
